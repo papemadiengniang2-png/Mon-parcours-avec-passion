@@ -277,7 +277,7 @@
         }
 
         
-        @media(max-width:767px){
+        @media(max-width:480px){
         .ccc{
             height: max-content;
 
@@ -405,7 +405,7 @@
         
 
 
-        @media(min-width:768px) and (max-width:1023px){
+        @media(min-width:481px) and (max-width:1023px){
             .ccc{
             height: max-content;
             padding: 8px;
@@ -467,7 +467,7 @@
             box-shadow: 0 0 2px;
             width: 300px;
             height: 200px;
-            margin-top: 20px;
+            margin-top: 20px;   
         }
          .www{
             display: grid;
@@ -510,7 +510,7 @@
         }
         .footer{
             height: 40px;
-            background-color: white;
+            background-color: rgb(249, 193, 193);
             text-align: center;
             margin-top: 20px;
         }
